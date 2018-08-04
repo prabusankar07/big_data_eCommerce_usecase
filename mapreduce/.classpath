@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/avro-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/guava-12.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/hadoop-mapreduce-client-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/hive-exec-0.13.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/jackson-mapper-lgpl-1.6.7.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/mrunit-1.0.0-hadoop1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/module-1/lib/pig-0.12.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
